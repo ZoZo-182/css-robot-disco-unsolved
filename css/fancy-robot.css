@@ -1,9 +1,3 @@
-body {
-  background-color: #21222c;
-}
-
-/* 👇👇👇 Paste the styles of your Fancy Robot from the "Position it right" assignment here 👇👇👇 */
-
 .robot-container {
   position: relative;
   height: 100vh;
